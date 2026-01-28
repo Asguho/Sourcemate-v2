@@ -33,8 +33,10 @@
 		"drizzle-orm": "^0.45.1",
 		"eslint": "^9.39.2",
 		"eslint-config-prettier": "^10.1.8",
+		"eslint-plugin-neverthrow": "^1.1.4",
 		"eslint-plugin-svelte": "^3.14.0",
 		"globals": "^17.1.0",
+		"postgres": "^3.4.8",
 		"prettier": "^3.8.1",
 		"prettier-plugin-svelte": "^3.4.1",
 		"prettier-plugin-tailwindcss": "^0.7.2",
@@ -43,12 +45,12 @@
 		"tailwindcss": "^4.1.18",
 		"typescript": "^5.9.3",
 		"typescript-eslint": "^8.53.1",
-		"vite": "^7.3.1",
-		"eslint-plugin-neverthrow": "^1.1.4"
+		"vite": "^7.3.1"
 	},
 	"dependencies": {
 		"@oslojs/jwt": "^0.3.0",
 		"@oslojs/otp": "^1.1.0",
+		"@std/http": "npm:@jsr/std__http",
 		"neverthrow": "^8.2.0",
 		"valibot": "^1.2.0"
 	}
